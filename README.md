@@ -1,10 +1,33 @@
-- 👋 Hi, I’m Vinícius Caetano
-- 👀 I’m interested in Data Science and data analysis technologies
-- 🌱 I’m currently learning data science with Python
-- 💞️ I’m looking to collaborate on variated projects
-- 📫 E-Mail: viniciusgcaetano@hotmail.com
+# Hello, I am Vinícius Caetano
 
-<!---
-ViniciusgCaetano/ViniciusgCaetano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### I'm a Data Analyst that seek to bring value to organizations through data analysis initiatives and technologies applied to corporate management.
+<br>
+
+
+### Formation :book:
+----
+> #### Formed IT technician at Federal Institute of Espírito Santo
+
+> #### Graduating in information systems at Federal Institute of Espírito Santo  
+<br>
+
+Technologies/concepts that i use on my works :computer:
+----
+  - Python
+  - Power BI
+  - SQL (SQL Server / MySQL)
+  - Git and GitHub
+  - Excel / Google Sheets
+  - Business Inteligence 
+  - Statistics
+<br>
+
+## Contact-me on my my social networks!
+
+[Medium](https://medium.com/@ViniCaetanoBR) | [E-mail](mailto:viniciusgcaetano@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/viniciusgcaetano/?locale=en_US)
+
+
+
+
+
