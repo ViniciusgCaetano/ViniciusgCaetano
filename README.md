@@ -23,7 +23,7 @@ Technologies/concepts that i use on my works :computer:
   - Statistics
 <br>
 
-## Contact-me on my my social networks!
+## Contact-me on my social networks!
 
 [Medium](https://medium.com/@ViniCaetanoBR) | [E-mail](mailto:viniciusgcaetano@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/viniciusgcaetano/?locale=en_US)
 
