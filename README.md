@@ -27,7 +27,7 @@ Technologies/concepts that i use on my works :computer:
 
 [Medium](https://medium.com/@ViniCaetanoBR) | [E-mail](mailto:viniciusgcaetano@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/viniciusgcaetano/?locale=en_US)
 
-## To see my work in a more organizated way, please visit [ViniciusCaetano.tech](www.viniciuscaetano.tech)
+## To see my work in a more organizated way, please visit [ViniciusCaetano.tech](https://www.viniciuscaetano.tech)
 
 
 
